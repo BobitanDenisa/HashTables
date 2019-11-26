@@ -1,0 +1,6 @@
+Filling Factor     Avg Effort (hit)     Max Effort (hit)     Avg Effort (miss)     Max Effort (miss)
+    0.80                  2.51                 33                   5.98                  52
+    0.85                  2.77                 43                   8.62                  76
+    0.90                  3.40                 79                  15.21                  114
+    0.95                  2.94                 160                  27.17                  215
+    0.99                  2.75                 188                  83.42                  1115
